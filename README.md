@@ -74,8 +74,15 @@ For a complete list, see `requirements.txt`.
 [You should add a section here describing the types of results users can expect, including example queries and their outputs. Consider adding screenshots or GIFs demonstrating the application in action.]
 
 To showcase the results:
-
-
+![average_prices_over_time](https://github.com/user-attachments/assets/d9fe3119-5b68-42e7-a517-0aedc9ecccb5)
+![average_sale_price_per_quarter](https://github.com/user-attachments/assets/439727a4-f5d6-4f63-8c2f-9c7cd4b249af)
+![average_sale_price_per_year](https://github.com/user-attachments/assets/546a94e6-c557-494b-b57f-198bd53d9d08)
+![change_in_propertytype_over_the_years](https://github.com/user-attachments/assets/cc314374-2173-42c7-b837-94455d4fddd0)
+![district_counts](https://github.com/user-attachments/assets/d320025b-e110-432a-ab58-df943cfe3bf7)
+![price_over_time](https://github.com/user-attachments/assets/aab67126-ba55-470c-b441-49d34b8c3a81)
+![property_prices_over_time](https://github.com/user-attachments/assets/9e469048-1b07-4027-a25b-54334807e76b)
+![result](https://github.com/user-attachments/assets/0f1026fc-5838-4e84-9bb6-aa0e10ebf25b)
+![prices](https://github.com/user-attachments/assets/55c087bb-8103-4246-b170-d44ef0b77829)
 
 
 
